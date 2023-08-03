@@ -19,10 +19,6 @@ body {
 }
 
 
-div{
-    display: flex;
-    justify-content: center
-  }
 a:hover{
     background-color: blue;
 }
@@ -37,15 +33,7 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
+
 
 body {
     background-color: rgb(255, 255, 165);
@@ -57,20 +45,7 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
 
-div{
-    display: flex;
-    justify-content: center
-}
 h1::first-letter {
     color:blue;
 }
@@ -86,15 +61,7 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
+
 
 .container {
     display: flex;
@@ -104,26 +71,8 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
-.image{
-    border-radius: 10px;
-   border: 2px solid red;
-    height: 400px;
-}
-
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
-
-div{
+.h{
     display: flex;
-    justify-content: center
+    justify-content: center;
 }
-
-
 
