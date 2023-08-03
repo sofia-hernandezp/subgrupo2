@@ -1,6 +1,4 @@
-body {
-    background-color: rgb(255, 255, 165);
-}
+
 
 .image{
     border-radius: 10px;
@@ -8,15 +6,6 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
 
 
 div{
@@ -27,9 +16,6 @@ a:hover{
     background-color: blue;
 }
 
-body {
-    background-color: rgb(12, 56, 179);
-}
 
 .image{
     border: 5px solid green;
@@ -37,15 +23,6 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
 
 body {
     background-color: rgb(255, 255, 165);
@@ -68,10 +45,7 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
-div{
-    display: flex;
-    justify-content: center
-}
+
 h1::first-letter {
     color:blue;
 }
@@ -87,15 +61,7 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
+
 
 .container {
     display: flex;
@@ -111,25 +77,16 @@ body {
     height: 400px;
 }
 
-.link-button {
-    text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
-}
 
-div{
-    display: flex;
-    justify-content: center
-}
+
 
 form{
     display: flex;
     flex-direction: column;
 }
 
-
+.h{
+    display: flex;
+    justify-content: center;
+}
 
